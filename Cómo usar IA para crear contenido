@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>IA para contenido</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header><h1>Cómo usar IA para crear contenido</h1></header>
+
+<section class="hero">
+
+<p>La inteligencia artificial permite crear textos, ideas y estructuras para webs más rápido.</p>
+
+<h2>Usos principales</h2>
+<ul>
+<li>Escribir artículos</li>
+<li>Generar ideas</li>
+<li>Optimizar SEO</li>
+</ul>
+
+<p>Importante: siempre revisa el contenido antes de publicarlo.</p>
+
+</section>
+
+</body>
+</html>
