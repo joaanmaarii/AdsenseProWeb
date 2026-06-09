@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+<meta charset="UTF-8">
+
+<title>Qué es Google AdSense</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header><h1>Qué es Google AdSense</h1></header>
+
+<section class="hero">
+
+<p><strong>Google AdSense</strong> es un sistema de publicidad de [Google](chatgpt://generic-entity?number=0) que permite ganar dinero mostrando anuncios en tu web.</p>
+
+<h2>Cómo funciona</h2>
+
+<p>Google coloca anuncios en tu web y tú ganas dinero por clics o impresiones.</p>
+
+<h2>Cuánto se gana</h2>
+
+<p>Depende del tráfico. Sin visitas no hay ingresos.</p>
+
+<p>Más información oficial:  [oai_citation:0‡google.com](https://www.google.com/adsense/start/?utm_source=chatgpt.com)</p>
+
+</section>
+
+</body>
+
+</html>
